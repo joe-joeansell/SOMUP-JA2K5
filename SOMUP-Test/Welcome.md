@@ -6,4 +6,4 @@ When you're ready, delete this note and make the vault your own.
 
 Thinking = Therefore Existing...?
 
-[[Brain + Impulses = Thinking ?]]
+[[Brain]]
