@@ -37,12 +37,14 @@
             "id": "3f068dfe67f240e7",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.6"
+                "file": "2025-11-28.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
+              "icon": "lucide-file",
+              "title": "2025-11-28"
             }
           }
         ],
@@ -212,6 +214,7 @@
   },
   "active": "3f068dfe67f240e7",
   "lastOpenFiles": [
+    "2025-11-28.md",
     "Brain.md",
     "2025-10-15.md",
     "2025-10-22.md",
