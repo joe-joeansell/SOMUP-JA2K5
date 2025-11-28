@@ -20,8 +20,33 @@
               "icon": "lucide-file",
               "title": "2025-10-22"
             }
+          },
+          {
+            "id": "2957bb662fddf417",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
+          },
+          {
+            "id": "3f068dfe67f240e7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "ec2e24ea44c364e1",
@@ -185,7 +210,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "d64d0ac5c1a03a39",
+  "active": "3f068dfe67f240e7",
   "lastOpenFiles": [
     "2025-10-15.md",
     "2025-10-22.md",
