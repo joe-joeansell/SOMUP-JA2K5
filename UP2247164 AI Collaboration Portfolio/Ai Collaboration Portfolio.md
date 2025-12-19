@@ -3,6 +3,7 @@ Document how you provided context to AI tools, including your initial project br
 a. Your initial project brief given to AI tools
 b. Examples of how you provided SuperCollider/DSP context
 c. Evidence of how you refined your prompting approach
+
 ### Example Prompts and AI Outputs (800–1000 words) 
 Provide 4–5 detailed examples of AI interactions that were significant to your project development. For each example include:
 a. The exact prompt you used (in code blocks)
@@ -14,12 +15,17 @@ Document specific instances where you rejected or significantly modified AI sugg
 a. At least 2 examples of AI outputs you rejected with your reasoning
 b. Examples of code you modified or improved from AI suggestions
 c. Your criteria for evaluating AI suggestions in audio programming contexts
+
+One example of an AI output I rejected came when I was developing the visualiser system, and working on a way to have the visuals transition between states. I asked Copilot...
 ### Collaboration Strategy Reflection (300–400 words) 
 Reflect critically on your overall AI collaboration approach:
 a. How your AI collaboration strategy evolved during the project
 b. What you learned about effective human–AI partnership in audio programming
 c. How AI collaboration affected your learning and creative process
 d. Professional implications for audio programming practice
+Initially, I set out with the goal to carefully moderate LLM output on this project. As the project went on, however...
+-started to feel like i was somewhat losing control to the LLM output
+-began to use it any time i got seriously stuck
 
 
 ---
