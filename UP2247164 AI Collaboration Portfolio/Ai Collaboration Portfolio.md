@@ -1,5 +1,9 @@
 ### Strategic AI Briefing Documentation (500–600 words) 
 Document how you provided context to AI tools, including your initial project brief, technical constraints, and creative goals. Include:
+My methods for providing context depended on which stage of the project's development I was at. During the ideation stage...
+Once I was in the process of actually developing my project within P5.JS, my strategy for providing context necessarily had to change. Initially, I...
+As the amount of code increased, it became difficult to paste all of it at once into the chatbot interface. To compensate, I...
+Once I had provided context for my code, I found developing with the chatbot to be much easier. Rather than having it stab in the dark, it could provide suggestions founded within the material reality of my code, allowing me to refine and be quite granular with my prompting process. I could provide particular snippets of code, or...
 a. Your initial project brief given to AI tools
 b. Examples of how you provided SuperCollider/DSP context
 c. Evidence of how you refined your prompting approach
@@ -10,12 +14,22 @@ a. The exact prompt you used (in code blocks)
 b. The AI’s response/output (in code blocks)
 c. Your reflective commentary on the quality and usefulness of the response
 d. How you modified or used the AI’s suggestion
+EXAMPLES GO HERE
+- initial project ideation w/ copilot
+- matt and i's initial prompting to test whether or not the basic conceit of the project was feasible (json sentiment metadata, visuals in p5js reacting to that)
+- multiple sentiments
+- sound control features
+- volume bar feature (bar/sinewave versions)
 ### Critical Filtering and Decision Making (400–500 words) 
 Document specific instances where you rejected or significantly modified AI suggestions. Include:
 a. At least 2 examples of AI outputs you rejected with your reasoning
 b. Examples of code you modified or improved from AI suggestions
 c. Your criteria for evaluating AI suggestions in audio programming contexts
-
+REJECTED OUTPUTS
+-copilot's initial suggestions for transitioning between visual states.
+-fixing the visual 'overlap' issue, may have been an issue of misprompting but copilot kept giving me incredibly complicated suggestions for how to fix this and misunderstanding what I wanted. eventually when reproviding context to reset copilot's understanding of my project it ended up suggesting a correct and much less complicated fix for the issue
+MODIFIED/IMPROVED CODE
+-amplitude rectangle
 One example of an AI output I rejected came when I was developing the visualiser system, and working on a way to have the visuals transition between states. I asked Copilot...
 ### Collaboration Strategy Reflection (300–400 words) 
 Reflect critically on your overall AI collaboration approach:
