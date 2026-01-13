@@ -1,0 +1,174 @@
+[
+  {
+    "time": 0.0,
+    "sentiment": "neutral",
+    "color": "#f5f5f5",
+    "position": "default",
+    "sentiment2": null,
+    "color2": null
+  },
+  {
+    "time": 1.7,
+    "sentiment": "sad",
+    "color": "#9e9aff",
+    "position": "large",
+    "sentiment2": null,
+    "color2": null
+  },
+  {
+    "time": 15,
+    "sentiment": "sad",
+    "color": "#9e9aff",
+    "position": "small",
+    "sentiment2": "calm",
+    "color2": "#ffb7ed"
+  },
+  {
+    "time": 21,
+    "sentiment": "sad",
+    "color": "#9e9aff",
+    "position": "large",
+    "sentiment2": null,
+    "color2": null
+  },
+  {
+    "time": 28,
+    "sentiment": "sad",
+    "color": "#9e9aff",
+    "position": "small",
+    "sentiment2": "calm",
+    "color2": "#ffb7ed"
+  },
+  {
+    "time": 31,
+    "sentiment": "sad",
+    "color": "#9e9aff",
+    "position": "small",
+    "sentiment2": "excitement",
+    "color2": "#ffe928"
+  },
+  {
+    "time": 37,
+    "sentiment": "calm",
+    "color": "#ffb7ed",
+    "position": "large",
+    "sentiment2": "sad",
+    "color2":  "#9e9aff"
+  },
+  {
+    "time": 47,
+    "sentiment": "calm",
+    "color": "#ffb7ed",
+    "position": "large",
+    "sentiment2": null,
+    "color2":  null
+  },
+  {
+    "time": 50,
+    "sentiment": "calm",
+    "color": "#ffb7ed",
+    "sentiment2": "excitement",
+    "color2": "#ffe928"
+  },
+  {
+    "time": 52,
+    "sentiment": "sad",
+    "color": "#9e9aff",
+    "sentiment2": "excitement",
+    "color2": "#ffe928"
+  },
+  {
+    "time": 53,
+    "sentiment": "calm",
+    "color": "#ffb7ed",
+    "sentiment2": "excitement",
+    "color2": "#ffe928"
+  },
+  {
+    "time": 56,
+    "sentiment": "sad",
+    "color": "#9e9aff",
+    "sentiment2": "excitement",
+    "color2": "#ffe928"
+  },
+  {
+    "time": 57,
+    "sentiment": "calm",
+    "color": "#ffb7ed",
+    "sentiment2": "excitement",
+    "color2": "#ffe928"
+  },
+  {
+    "time": 60,
+    "sentiment": "calm",
+    "color": "#ffb7ed",
+    "sentiment2": null,
+    "color2": null
+  },
+  {
+    "time": 62.5,
+    "sentiment": "calm",
+    "color": "#ffb7ed",
+    "position": "large",
+    "sentiment2": "sad",
+    "color2":  "#9e9aff"
+  },
+  {
+    "time": 70,
+    "sentiment": "calm",
+    "color": "#ffb7ed",
+    "sentiment2": null,
+    "color2": null
+  },
+  {
+    "time": 74,
+    "sentiment": "excitement",
+    "color": "#ffe928",
+    "sentiment2": "calm",
+    "color2": "#ffb7ed"
+  },
+  {
+    "time": 80,
+    "sentiment": "excitement",
+    "color": "#ffe928",
+    "sentiment2": "happy",
+    "color2": "#A4F5A0"
+  },
+  {
+    "time": 86,
+    "sentiment": "calm",
+    "color": "#ffb7ed",
+    "sentiment2": "happy",
+    "color2": "#A4F5A0"
+  },
+  {
+    "time": 92,
+    "sentiment": "excitement",
+    "color": "#ffe928",
+    "sentiment2": "calm",
+    "color2": "#ffb7ed"
+  },
+  {
+    "time": 94,
+    "sentiment": "calm",
+    "color": "#ffb7ed",
+    "sentiment2": null,
+    "color2": null
+  },
+  {
+    "time": 96,
+    "sentiment": "calm",
+    "color": "#ffb7ed",
+    "position": "large",
+    "sentiment2": "sad",
+    "color2":  "#9e9aff"
+  },
+  {
+    "time": 99.5,
+    "sentiment": "neutral",
+    "color": "#f5f5f5",
+    "position": "default",
+    "sentiment2": null,
+    "color2": null
+  }
+]

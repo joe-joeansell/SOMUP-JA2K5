@@ -1,0 +1,16 @@
+-smooth visual transitions
+
+-Button Controls
+-Make them clickable (Done)
+-Pause and Play, Stop (Pause and play work, stop is glitchy- works but breaks the visuals)
+-Loop (works)
+-Reverse and Fast forward (Done)
+-Add visual feedback (hover, indicator on loop button to indicate active loop)
+
+-playing/not playing indicator (works, visuals fixed)
+
+-volume/bpm bar
+
+-song switch
+
+-find some real world examples of UI choices
