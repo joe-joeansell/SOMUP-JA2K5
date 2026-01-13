@@ -1,5 +1,5 @@
 Introduction:
-Welcome to "SoundSeer". This is a music visualiser designed to allow Deaf and Hard of Hearing users to experience the emotional content of music in a visual format. SoundSeer is not intended to replace the traditional ways of listening to music, but hopefully serves to augment the experience in a positive way.
+Welcome to "SoundSeer". This p5.js project is a music visualiser designed to allow Deaf and Hard of Hearing users to experience the emotional content of music in a visual format. SoundSeer is not intended to replace the traditional ways of listening to music, but hopefully serves to augment the experience in a positive way.
 
 Online Link: https://editor.p5js.org/up2247164/full/Z13dn5fji
 
@@ -18,6 +18,7 @@ Code that has been AI generated entirely or partially and code that I wrote and 
 Sentiment JSON files were AI generated but extended by me later.
 
 HOW TO USE:
+Following the link, open in the online p5.js viewer.
 
 In this version of the project, control is achieved through the buttons at the bottom of the screen.
 
